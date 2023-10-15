@@ -1,10 +1,10 @@
 ### Olá, Prazer meu nome é Luís Felipe 👋
 
-🔎 Atualmente aprofundando conhecimentos na área de Ciência e Análise de Dados;
+💻 Atualmente aprofundando conhecimentos na área de Ciência e Análise de Dados;
 
 📚 Graduando em Engenharia da Computação na FHO|Uniararas;
 
-💻 Apaixonado por Tecnologia e Negócios;
+🏎️ Apaixonado por Automobilismo, Tecnologia e Negócios;
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscbarbosa&show_icons=true&theme=tokyonight"/>
